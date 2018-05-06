@@ -1,3 +1,16 @@
+# CNNs for Loop-Closure Detection
+The following is based on the methodology proposed in "*Loop closure detection for 
+visual SLAM systems using convolutional neural network*" (see citation below). Various
+CNN architectures are available for method evaluation on the Oxford *New College* and
+*City Centre* datasets. The code can easily be extended for additional datasets and 
+CNNs.
+
+![simplot_city_overfeat_1](paper/simplot_city_overfeat_1.png)
+
+
+X. Zhang, Y. Su and X. Zhu, "Loop closure detection for visual SLAM systems using convolutional neural network," 2017 23rd International Conference on Automation and Computing (ICAC), Huddersfield, 2017, pp. 1-6.
+doi: 10.23919/IConAC.2017.8082072
+
 # Usage
 The main script is `cnn_lcd.py` and offers the following options.
 ```
