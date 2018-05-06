@@ -5,7 +5,9 @@ CNN architectures are available for method evaluation on the Oxford *New College
 *City Centre* datasets. The code can easily be extended for additional datasets and 
 CNNs.
 
-<img src="paper/simplot_city_overfeat_1.png" width="65%" align="middle" alt="simplot_city_overfeat_1">
+<p align="center">
+    <img src="paper/simplot_city_overfeat_1.png" width="65%" alt="simplot_city_overfeat_1">
+</p>
 
 
 X. Zhang, Y. Su and X. Zhu, "Loop closure detection for visual SLAM systems using convolutional neural network," 2017 23rd International Conference on Automation and Computing (ICAC), Huddersfield, 2017, pp. 1-6.
