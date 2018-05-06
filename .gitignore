@@ -1,0 +1,15 @@
+*.pdf
+*.pptx
+*.zip
+*.out
+*.ods
+*.txt
+OverFeat/
+img/
+models/
+data/
+npy/
+tf_ckpts/
+__pycache__/
+.idea/
+
