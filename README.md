@@ -14,6 +14,8 @@ X. Zhang, Y. Su and X. Zhu, "Loop closure detection for visual SLAM systems usin
 doi: 10.23919/IConAC.2017.8082072
 
 # Usage
+*NOTE: The Overfeat model may not work as it can give the same output for all inputs (see [this issue][3])*
+
 The main script is `cnn_lcd.py` and offers the following options.
 ```
 python cnn_lcd.py --help
@@ -84,3 +86,4 @@ Directory structure should look like this:
 
 [1]: https://github.com/sermanet/OverFeat
 [2]: https://github.com/tensorflow/models/tree/master/research/slim
+[3]: https://github.com/sermanet/OverFeat/issues/39
