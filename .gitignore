@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *.pdf
 *.pptx
 *.zip
@@ -114,4 +113,3 @@ ENV/
 
 # mypy
 .mypy_cache/
->>>>>>> 7593a355a082b9c4b49bac1c03a11f201aa12c2d
