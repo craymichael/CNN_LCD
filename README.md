@@ -57,6 +57,7 @@ The following Python packages are needed (installed with pip, conda, etc.):
 * skimage
 * matplotlib
 * sklearn
+* requests
 
 Additionally, in order to use the *Overfeat* model, you'll need to install
 the Python API provided [here][1]. The GPU version should ideally be installed, but 
