@@ -14,7 +14,8 @@ X. Zhang, Y. Su and X. Zhu, "Loop closure detection for visual SLAM systems usin
 doi: 10.23919/IConAC.2017.8082072
 
 # Usage
-*NOTE: The Overfeat model may not work as it can give the same output for all inputs (see [this issue][3])*
+*NOTE: The Overfeat model is known not to work as it can give the same output for all inputs (see [this issue][3]). I do not intend
+to fix this, but I am open to integrating a PR. The TF slim models still work.*
 
 The main script is `cnn_lcd.py` and offers the following options.
 ```
